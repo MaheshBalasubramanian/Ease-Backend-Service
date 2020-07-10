@@ -10,6 +10,8 @@ mobileApp.tables.add('Customers');
 mobileApp.tables.add('Plans');
 mobileApp.tables.add('Orders');
 mobileApp.tables.add('Billing');
+mobileApp.tables.add('Offers');
+mobileApp.tables.add('Taxes');
 mobileApp.tables.add('Roles'); //te a table for 'Book' with default settings
 
 app.use(mobileApp);
