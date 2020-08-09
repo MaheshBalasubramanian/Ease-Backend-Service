@@ -6,6 +6,7 @@ mobileApp.tables.add('Hotels');
 mobileApp.tables.add('Items');
 mobileApp.tables.add('Users');
 mobileApp.tables.add('Categories');
+mobileApp.tables.add('ItemCategories');
 mobileApp.tables.add('Customers');
 mobileApp.tables.add('Plans');
 mobileApp.tables.add('Orders');
