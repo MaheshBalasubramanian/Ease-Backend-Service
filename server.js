@@ -10,6 +10,7 @@ mobileApp.tables.add('Item_Categories');
 mobileApp.tables.add('Customers');
 mobileApp.tables.add('Plans');
 mobileApp.tables.add('Orders');
+mobileApp.tables.add('OrderDetails');
 mobileApp.tables.add('Billing');
 mobileApp.tables.add('Offers');
 mobileApp.tables.add('Taxes');
