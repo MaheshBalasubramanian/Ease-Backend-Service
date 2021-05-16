@@ -11,7 +11,7 @@ mobileApp.tables.add('Customers');
 mobileApp.tables.add('Plans');
 mobileApp.tables.add('Orders');
 mobileApp.tables.add('OrderDetails');
-mobileApp.tables.add('Billing');
+mobileApp.tables.add('Bills');
 mobileApp.tables.add('Offers');
 mobileApp.tables.add('Taxes');
 mobileApp.tables.add('Tables');
