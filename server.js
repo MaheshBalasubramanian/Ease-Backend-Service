@@ -16,5 +16,6 @@ mobileApp.tables.add('Offers');
 mobileApp.tables.add('Taxes');
 mobileApp.tables.add('Tables');
 mobileApp.tables.add('Roles');
+mobileApp.tables.add('FeedbackDetails');
 app.use(mobileApp);
 app.listen(process.env.PORT || 3000);
