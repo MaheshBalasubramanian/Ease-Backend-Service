@@ -18,5 +18,6 @@ mobileApp.tables.add('Tables');
 mobileApp.tables.add('FeedbackDetails');
 mobileApp.tables.add('Roles');
 mobileApp.tables.add('RoleDetails');
+mobileApp.tables.add('LoggedUserDetails');
 app.use(mobileApp);
 app.listen(process.env.PORT || 3000);
